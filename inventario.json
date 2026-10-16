@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": "M001",
+        "nombre": "Llanta trasera",
+        "stock": 8
+    },
+    {
+        "codigo": "M002",
+        "nombre": "Filtro de aire",
+        "stock": 25
+    },
+    {
+        "codigo": "M003",
+        "nombre": "Buj\u00eda",
+        "stock": 50
+    }
+]
